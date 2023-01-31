@@ -1,6 +1,7 @@
 body {
     background: lightgray;
     font-family: Arial, Helvetica, sans-serif;
+    border-top: 15px solid darkgray;
 }
 
 img {
