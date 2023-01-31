@@ -16,12 +16,18 @@ img {
 
 .images {
     display: flex;
+    padding: 20px;
+    gap: 25px;
 }
 
 .images-2 {
     display: flex;
+    padding: 20px;
+    gap: 25px;
 }
 
 .images-3 {
     display: flex;
+    padding: 20px;
+    gap: 25px;
 }
