@@ -24,16 +24,19 @@ img {
     display: flex;
     padding: 20px;
     border-radius: 10px;
+    gap: 20px;
 }
 
 .images-2 {
     display: flex;
     padding: 20px;
     border-radius: 10px;
+    gap: 20px;
 }
 
 .images-3 {
     display: flex;
     padding: 20px;
     border-radius: 10px;
+    gap: 20px;
 }
