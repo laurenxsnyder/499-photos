@@ -2,7 +2,11 @@ body {
     background: lightgray;
     font-family: Arial, Helvetica, sans-serif;
     border-top: 15px solid rgb(24, 24, 24);
-    margin: 0;
+    margin: 0 auto;
+}
+
+main{
+    margin: 0 auto;
 }
 
 img {
